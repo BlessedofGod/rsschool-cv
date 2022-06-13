@@ -801,6 +801,13 @@ max-width: 50%;
     .about-content {
       padding: 5px;
     }
+ 
+      .section-about-btn:active {
+      top: 2px;
+      box-shadow: 0 3px 0px #972e40;
+      background-color: #d45985;
+    }
+ 
 
     .section-about-myself {
       max-width: 100%;
